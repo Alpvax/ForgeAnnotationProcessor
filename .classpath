@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry sourcepath="C:/Users/nhouseago/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service/1.0-rc2/6c3f133fadd1f81052a6ad7c7a9f79ed76e06f35/auto-service-1.0-rc2-sources.jar" kind="lib" path="C:/Users/nhouseago/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service/1.0-rc2/51033a5b8fcf7039159e35b6878f106ccd5fb35f/auto-service-1.0-rc2.jar"/>
+	<classpathentry sourcepath="C:/Users/nhouseago/.gradle/caches/modules-2/files-2.1/com.google.auto/auto-common/0.3/1457c88f5be09496a4aa51aab3d261f277b2b8b/auto-common-0.3-sources.jar" kind="lib" path="C:/Users/nhouseago/.gradle/caches/modules-2/files-2.1/com.google.auto/auto-common/0.3/4073ab16ab4aceb9a217273da6442166bf51ae16/auto-common-0.3.jar"/>
+	<classpathentry sourcepath="C:/Users/nhouseago/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/ad97fe8faaf01a3d3faacecd58e8fa6e78a973ca/guava-18.0-sources.jar" kind="lib" path="C:/Users/nhouseago/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"/>
+</classpath>
